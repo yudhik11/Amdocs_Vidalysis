@@ -1,0 +1,3070 @@
+{
+  "partition": null,
+  "description": null,
+  "privacyMode": "Private",
+  "state": "Processed",
+  "accountId": "c09ddeac-e37a-4f39-92b4-e03a724532ea",
+  "id": "3af787565d",
+  "name": "amdocs_search",
+  "userName": "Sayak Kundu",
+  "created": "2019-04-12T05:39:30.4299063+00:00",
+  "isOwned": true,
+  "isEditable": false,
+  "isBase": true,
+  "durationInSeconds": 37,
+  "summarizedInsights": {
+    "name": "amdocs_search",
+    "id": "3af787565d",
+    "privacyMode": "Private",
+    "duration": {
+      "time": "0:00:37.163",
+      "seconds": 37.2
+    },
+    "thumbnailVideoId": "3af787565d",
+    "thumbnailId": "50c4b1e2-2d43-476a-b04c-afb3fcc8e905",
+    "faces": [{
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "3e6eed98-07e7-4508-9537-d101865a7d68",
+      "seenDuration": 22.5,
+      "seenDurationRatio": 0.6054,
+      "id": 1025,
+      "name": "Unknown #1",
+      "appearances": [{
+        "startTime": "0:00:04.805",
+        "endTime": "0:00:27.294",
+        "startSeconds": 4.8,
+        "endSeconds": 27.3
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "fd42af2f-e97d-4a83-95fc-b4d67df06410",
+      "seenDuration": 2.5,
+      "seenDurationRatio": 0.0673,
+      "id": 1275,
+      "name": "Unknown #2",
+      "appearances": [{
+        "startTime": "0:00:19.753",
+        "endTime": "0:00:22.322",
+        "startSeconds": 19.8,
+        "endSeconds": 22.3
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "ebb60027-5f89-4262-b7b1-7ad6d37152d2",
+      "seenDuration": 1.2,
+      "seenDurationRatio": 0.0323,
+      "id": 1127,
+      "name": "Unknown #4",
+      "appearances": [{
+        "startTime": "0:00:13.48",
+        "endTime": "0:00:14.681",
+        "startSeconds": 13.5,
+        "endSeconds": 14.7
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "2b293059-919b-4b3c-91f8-a07b26492c09",
+      "seenDuration": 1,
+      "seenDurationRatio": 0.0269,
+      "id": 1200,
+      "name": "Unknown #5",
+      "appearances": [{
+        "startTime": "0:00:12.479",
+        "endTime": "0:00:13.48",
+        "startSeconds": 12.5,
+        "endSeconds": 13.5
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "b6b1298b-c108-4292-9ef6-8a4d459b4558",
+      "seenDuration": 1,
+      "seenDurationRatio": 0.0269,
+      "id": 1199,
+      "name": "Unknown #6",
+      "appearances": [{
+        "startTime": "0:00:12.479",
+        "endTime": "0:00:13.48",
+        "startSeconds": 12.5,
+        "endSeconds": 13.5
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "20fa912c-b1b0-4082-9437-c6727e92af86",
+      "seenDuration": 0.9,
+      "seenDurationRatio": 0.0242,
+      "id": 1325,
+      "name": "Unknown #8",
+      "appearances": [{
+        "startTime": "0:00:22.356",
+        "endTime": "0:00:23.29",
+        "startSeconds": 22.4,
+        "endSeconds": 23.3
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "5093821b-c22d-4051-9687-112de8902ed4",
+      "seenDuration": 0.9,
+      "seenDurationRatio": 0.0242,
+      "id": 1324,
+      "name": "Unknown #7",
+      "appearances": [{
+        "startTime": "0:00:22.356",
+        "endTime": "0:00:23.29",
+        "startSeconds": 22.4,
+        "endSeconds": 23.3
+      }]
+    }, {
+      "videoId": "3af787565d",
+      "confidence": 0,
+      "description": null,
+      "title": null,
+      "thumbnailId": "fa594166-616e-4548-879d-07e24461fcf0",
+      "seenDuration": 0.9,
+      "seenDurationRatio": 0.0242,
+      "id": 1322,
+      "name": "Unknown #9",
+      "appearances": [{
+        "startTime": "0:00:23.29",
+        "endTime": "0:00:24.224",
+        "startSeconds": 23.3,
+        "endSeconds": 24.2
+      }]
+    }],
+    "keywords": [{
+      "isTranscript": true,
+      "id": 14,
+      "name": "people",
+      "appearances": [{
+        "startTime": "0:00:04.81",
+        "endTime": "0:00:09.46",
+        "startSeconds": 4.8,
+        "endSeconds": 9.5
+      }, {
+        "startTime": "0:00:23.83",
+        "endTime": "0:00:28.22",
+        "startSeconds": 23.8,
+        "endSeconds": 28.2
+      }]
+    }, {
+      "isTranscript": true,
+      "id": 23,
+      "name": "eople",
+      "appearances": [{
+        "startTime": "0:00:04.81",
+        "endTime": "0:00:09.46",
+        "startSeconds": 4.8,
+        "endSeconds": 9.5
+      }, {
+        "startTime": "0:00:23.83",
+        "endTime": "0:00:28.22",
+        "startSeconds": 23.8,
+        "endSeconds": 28.2
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 0,
+      "name": "mobile games",
+      "appearances": [{
+        "startTime": "0:00:08.408",
+        "endTime": "0:00:14.57",
+        "startSeconds": 8.4,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 1,
+      "name": "reinventing connectivity",
+      "appearances": [{
+        "startTime": "0:00:19.33",
+        "endTime": "0:00:24.291",
+        "startSeconds": 19.3,
+        "endSeconds": 24.3
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 2,
+      "name": "video games",
+      "appearances": [{
+        "startTime": "0:00:08.408",
+        "endTime": "0:00:14.57",
+        "startSeconds": 8.4,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 3,
+      "name": "ization tools",
+      "appearances": [{
+        "startTime": "0:00:07.474",
+        "endTime": "0:00:14.57",
+        "startSeconds": 7.5,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 4,
+      "name": "love gaming",
+      "appearances": [{
+        "startTime": "0:00:13.547",
+        "endTime": "0:00:14.948",
+        "startSeconds": 13.5,
+        "endSeconds": 14.9
+      }, {
+        "startTime": "0:00:20.087",
+        "endTime": "0:00:28.22",
+        "startSeconds": 20.1,
+        "endSeconds": 28.2
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 5,
+      "name": "celebrity gamers",
+      "appearances": [{
+        "startTime": "0:00:14.57",
+        "endTime": "0:00:23.83",
+        "startSeconds": 14.6,
+        "endSeconds": 23.8
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 6,
+      "name": "sports experiences",
+      "appearances": [{
+        "startTime": "0:00:09.46",
+        "endTime": "0:00:21.488",
+        "startSeconds": 9.5,
+        "endSeconds": 21.5
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 7,
+      "name": "video",
+      "appearances": [{
+        "startTime": "0:00:08.408",
+        "endTime": "0:00:14.57",
+        "startSeconds": 8.4,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 8,
+      "name": "tools",
+      "appearances": [{
+        "startTime": "0:00:07.941",
+        "endTime": "0:00:14.57",
+        "startSeconds": 7.9,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 9,
+      "name": "experiences",
+      "appearances": [{
+        "startTime": "0:00:16.817",
+        "endTime": "0:00:20.087",
+        "startSeconds": 16.8,
+        "endSeconds": 20.1
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 10,
+      "name": "& gaming",
+      "appearances": [{
+        "startTime": "0:00:13.547",
+        "endTime": "0:00:14.948",
+        "startSeconds": 13.5,
+        "endSeconds": 14.9
+      }, {
+        "startTime": "0:00:20.087",
+        "endTime": "0:00:28.22",
+        "startSeconds": 20.1,
+        "endSeconds": 28.2
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 11,
+      "name": "gamers",
+      "appearances": [{
+        "startTime": "0:00:14.57",
+        "endTime": "0:00:23.83",
+        "startSeconds": 14.6,
+        "endSeconds": 23.8
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 12,
+      "name": "sports",
+      "appearances": [{
+        "startTime": "0:00:09.46",
+        "endTime": "0:00:21.488",
+        "startSeconds": 9.5,
+        "endSeconds": 21.5
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 13,
+      "name": "esports",
+      "appearances": [{
+        "startTime": "0:00:10.744",
+        "endTime": "0:00:21.488",
+        "startSeconds": 10.7,
+        "endSeconds": 21.5
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 15,
+      "name": "startups",
+      "appearances": [{
+        "startTime": "0:00:04.81",
+        "endTime": "0:00:09.81",
+        "startSeconds": 4.8,
+        "endSeconds": 9.8
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 16,
+      "name": "customers",
+      "appearances": [{
+        "startTime": "0:00:09.46",
+        "endTime": "0:00:14.57",
+        "startSeconds": 9.5,
+        "endSeconds": 14.6
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 17,
+      "name": "work",
+      "appearances": [{
+        "startTime": "0:00:04.81",
+        "endTime": "0:00:09.46",
+        "startSeconds": 4.8,
+        "endSeconds": 9.5
+      }, {
+        "startTime": "0:00:14.57",
+        "endTime": "0:00:17.74",
+        "startSeconds": 14.6,
+        "endSeconds": 17.7
+      }, {
+        "startTime": "0:00:34.101",
+        "endTime": "0:00:36.469",
+        "startSeconds": 34.1,
+        "endSeconds": 36.5
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 18,
+      "name": "fans",
+      "appearances": [{
+        "startTime": "0:00:16.817",
+        "endTime": "0:00:20.087",
+        "startSeconds": 16.8,
+        "endSeconds": 20.1
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 19,
+      "name": "maximize",
+      "appearances": [{
+        "startTime": "0:00:19.33",
+        "endTime": "0:00:23.83",
+        "startSeconds": 19.3,
+        "endSeconds": 23.8
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 20,
+      "name": "performance",
+      "appearances": [{
+        "startTime": "0:00:19.33",
+        "endTime": "0:00:23.83",
+        "startSeconds": 19.3,
+        "endSeconds": 23.8
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 21,
+      "name": "research",
+      "appearances": [{
+        "startTime": "0:00:28.22",
+        "endTime": "0:00:34.101",
+        "startSeconds": 28.2,
+        "endSeconds": 34.1
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 22,
+      "name": "amdocs",
+      "appearances": [{
+        "startTime": "0:00:05.138",
+        "endTime": "0:00:07.474",
+        "startSeconds": 5.1,
+        "endSeconds": 7.5
+      }, {
+        "startTime": "0:00:34.101",
+        "endTime": "0:00:36.469",
+        "startSeconds": 34.1,
+        "endSeconds": 36.5
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 24,
+      "name": "actual",
+      "appearances": [{
+        "startTime": "0:00:04.81",
+        "endTime": "0:00:09.46",
+        "startSeconds": 4.8,
+        "endSeconds": 9.5
+      }, {
+        "startTime": "0:00:28.22",
+        "endTime": "0:00:34.101",
+        "startSeconds": 28.2,
+        "endSeconds": 34.1
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 25,
+      "name": "streame",
+      "appearances": [{
+        "startTime": "0:00:14.57",
+        "endTime": "0:00:17.74",
+        "startSeconds": 14.6,
+        "endSeconds": 17.7
+      }]
+    }, {
+      "isTranscript": false,
+      "id": 26,
+      "name": "tournaments",
+      "appearances": [{
+        "startTime": "0:00:09.46",
+        "endTime": "0:00:14.57",
+        "startSeconds": 9.5,
+        "endSeconds": 14.6
+      }]
+    }],
+    "sentiments": [],
+    "emotions": [],
+    "audioEffects": [{
+      "audioEffectKey": "Silence",
+      "seenDurationRatio": 0.0538,
+      "seenDuration": 2,
+      "appearances": [{
+        "startTime": "0:00:35.076",
+        "endTime": "0:00:37.129",
+        "startSeconds": 35.1,
+        "endSeconds": 37.1
+      }]
+    }],
+    "labels": [{
+      "id": 0,
+      "name": "person",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:32.032",
+        "startSeconds": 0,
+        "endSeconds": 32
+      }]
+    }, {
+      "id": 3,
+      "name": "indoor",
+      "appearances": [{
+        "startTime": "0:00:05.339",
+        "endTime": "0:00:11.745",
+        "startSeconds": 5.3,
+        "endSeconds": 11.7
+      }, {
+        "startTime": "0:00:14.948",
+        "endTime": "0:00:20.287",
+        "startSeconds": 14.9,
+        "endSeconds": 20.3
+      }, {
+        "startTime": "0:00:24.558",
+        "endTime": "0:00:32.032",
+        "startSeconds": 24.6,
+        "endSeconds": 32
+      }]
+    }, {
+      "id": 4,
+      "name": "man",
+      "appearances": [{
+        "startTime": "0:00:05.339",
+        "endTime": "0:00:11.745",
+        "startSeconds": 5.3,
+        "endSeconds": 11.7
+      }, {
+        "startTime": "0:00:14.948",
+        "endTime": "0:00:20.287",
+        "startSeconds": 14.9,
+        "endSeconds": 20.3
+      }, {
+        "startTime": "0:00:23.49",
+        "endTime": "0:00:27.761",
+        "startSeconds": 23.5,
+        "endSeconds": 27.8
+      }, {
+        "startTime": "0:00:30.964",
+        "endTime": "0:00:32.032",
+        "startSeconds": 31,
+        "endSeconds": 32
+      }]
+    }, {
+      "id": 2,
+      "name": "wall",
+      "appearances": [{
+        "startTime": "0:00:05.339",
+        "endTime": "0:00:11.745",
+        "startSeconds": 5.3,
+        "endSeconds": 11.7
+      }, {
+        "startTime": "0:00:14.948",
+        "endTime": "0:00:20.287",
+        "startSeconds": 14.9,
+        "endSeconds": 20.3
+      }, {
+        "startTime": "0:00:24.558",
+        "endTime": "0:00:27.761",
+        "startSeconds": 24.6,
+        "endSeconds": 27.8
+      }]
+    }, {
+      "id": 8,
+      "name": "computer",
+      "appearances": [{
+        "startTime": "0:00:29.897",
+        "endTime": "0:00:32.032",
+        "startSeconds": 29.9,
+        "endSeconds": 32
+      }]
+    }, {
+      "id": 9,
+      "name": "laptop",
+      "appearances": [{
+        "startTime": "0:00:29.897",
+        "endTime": "0:00:32.032",
+        "startSeconds": 29.9,
+        "endSeconds": 32
+      }]
+    }, {
+      "id": 5,
+      "name": "monitor",
+      "appearances": [{
+        "startTime": "0:00:11.745",
+        "endTime": "0:00:12.813",
+        "startSeconds": 11.7,
+        "endSeconds": 12.8
+      }]
+    }, {
+      "id": 10,
+      "name": "electronics",
+      "appearances": [{
+        "startTime": "0:00:29.897",
+        "endTime": "0:00:30.965",
+        "startSeconds": 29.9,
+        "endSeconds": 31
+      }]
+    }, {
+      "id": 1,
+      "name": "outdoor",
+      "appearances": [{
+        "startTime": "0:00:02.135",
+        "endTime": "0:00:03.203",
+        "startSeconds": 2.1,
+        "endSeconds": 3.2
+      }]
+    }, {
+      "id": 6,
+      "name": "cellphone",
+      "appearances": [{
+        "startTime": "0:00:20.287",
+        "endTime": "0:00:21.355",
+        "startSeconds": 20.3,
+        "endSeconds": 21.4
+      }]
+    }, {
+      "id": 7,
+      "name": "woman",
+      "appearances": [{
+        "startTime": "0:00:21.355",
+        "endTime": "0:00:22.423",
+        "startSeconds": 21.4,
+        "endSeconds": 22.4
+      }]
+    }, {
+      "id": -1,
+      "name": "Black",
+      "appearances": [{
+        "startTime": "0:00:03.57",
+        "endTime": "0:00:03.604",
+        "startSeconds": 3.6,
+        "endSeconds": 3.6
+      }]
+    }],
+    "brands": [],
+    "statistics": {
+      "correspondenceCount": 3,
+      "speakerTalkToListenRatio": {
+        "1": 0.392,
+        "2": 0.085,
+        "3": 0.282,
+        "4": 0.239
+      },
+      "speakerLongestMonolog": {
+        "1": 14,
+        "2": 3,
+        "3": 10,
+        "4": 8
+      },
+      "speakerNumberOfFragments": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1
+      },
+      "speakerWordCount": {
+        "1": 32,
+        "2": 10,
+        "3": 34,
+        "4": 10
+      }
+    },
+    "topics": [{
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.944,
+      "id": 0,
+      "name": "Games",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.7481,
+      "id": 1,
+      "name": "Games and Gaming/Pc Gaming",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.7462,
+      "id": 2,
+      "name": "Games and Gaming/Game Industry/Video Game Industry",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.7276,
+      "id": 3,
+      "name": "Games and Gaming/Social Games",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.6041,
+      "id": 4,
+      "name": "Games and Gaming/Multiplayer Games/Online Multiplayer Gaming",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.593,
+      "id": 5,
+      "name": "Games and Gaming/Video Games",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.5181,
+      "id": 6,
+      "name": "Games and Gaming/Video Games/Gamers",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.4728,
+      "id": 7,
+      "name": "Games and Gaming/Game Industry/Social Gaming Startups and Companies",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": "Lifestyle and Leisure",
+      "iabName": "Hobbies & Interests",
+      "confidence": 0.4555,
+      "id": 8,
+      "name": "Games and Gaming/Game Industry/Game Design",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }, {
+      "referenceUrl": null,
+      "iptcName": null,
+      "iabName": null,
+      "confidence": 0.4367,
+      "id": 9,
+      "name": "Gaming Industry",
+      "appearances": [{
+        "startTime": "0:00:00",
+        "endTime": "0:00:37.131",
+        "startSeconds": 0,
+        "endSeconds": 37.1
+      }]
+    }]
+  },
+  "videos": [{
+    "accountId": "c09ddeac-e37a-4f39-92b4-e03a724532ea",
+    "id": "3af787565d",
+    "state": "Processed",
+    "moderationState": "OK",
+    "reviewState": "None",
+    "privacyMode": "Private",
+    "processingProgress": "100%",
+    "failureCode": "None",
+    "failureMessage": "",
+    "externalId": null,
+    "externalUrl": null,
+    "metadata": null,
+    "insights": {
+      "version": "1.0.0.0",
+      "duration": "0:00:37.163",
+      "sourceLanguage": "en-US",
+      "language": "en-US",
+      "transcript": [{
+        "id": 0,
+        "text": "",
+        "confidence": 1,
+        "speakerId": 1,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:04.81",
+          "start": "0:00:00",
+          "end": "0:00:04.81"
+        }]
+      }, {
+        "id": 1,
+        "text": "Most people don't know this, but am box is actually working with startups the development.",
+        "confidence": 0.8976,
+        "speakerId": 1,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }]
+      }, {
+        "id": 2,
+        "text": "Ization tools for video games are customers on E sports leagues tournaments video and mobile games.",
+        "confidence": 0.8976,
+        "speakerId": 1,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }]
+      }, {
+        "id": 3,
+        "text": "We work with celebrity gamers and streamers to create better.",
+        "confidence": 0.8976,
+        "speakerId": 2,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:14.57",
+          "adjustedEnd": "0:00:17.74",
+          "start": "0:00:14.57",
+          "end": "0:00:17.74"
+        }]
+      }, {
+        "id": 4,
+        "text": "E sports experiences for fans.",
+        "confidence": 0.8976,
+        "speakerId": 3,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.74",
+          "adjustedEnd": "0:00:19.33",
+          "start": "0:00:17.74",
+          "end": "0:00:19.33"
+        }]
+      }, {
+        "id": 5,
+        "text": "And viewers and we help gamers to maximize the performance by reinventing connectivity.",
+        "confidence": 0.8976,
+        "speakerId": 3,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:19.33",
+          "adjustedEnd": "0:00:23.83",
+          "start": "0:00:19.33",
+          "end": "0:00:23.83"
+        }]
+      }, {
+        "id": 6,
+        "text": "How much we love gaming are people not only play counter strike in fortnight for fun,",
+        "confidence": 0.8976,
+        "speakerId": 3,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:23.83",
+          "adjustedEnd": "0:00:28.22",
+          "start": "0:00:23.83",
+          "end": "0:00:28.22"
+        }]
+      }, {
+        "id": 7,
+        "text": "but actually do it is part of the research.",
+        "confidence": 0.8976,
+        "speakerId": 4,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:28.22",
+          "adjustedEnd": "0:00:30.42",
+          "start": "0:00:28.22",
+          "end": "0:00:30.42"
+        }]
+      }, {
+        "id": 8,
+        "text": "",
+        "confidence": 1,
+        "speakerId": 4,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:30.42",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:30.42",
+          "end": "0:00:37.131"
+        }]
+      }],
+      "ocr": [{
+        "id": 0,
+        "text": "eSports",
+        "confidence": 408.5,
+        "left": 269,
+        "top": 5,
+        "width": 98,
+        "height": 24,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:13.547",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:13.547",
+          "end": "0:00:14.481"
+        }]
+      }, {
+        "id": 1,
+        "text": "& Gaming",
+        "confidence": 952.75,
+        "left": 297,
+        "top": 18,
+        "width": 113,
+        "height": 24,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:13.547",
+          "adjustedEnd": "0:00:14.948",
+          "start": "0:00:13.547",
+          "end": "0:00:14.948"
+        }]
+      }, {
+        "id": 2,
+        "text": "eSports",
+        "confidence": 575.375,
+        "left": 138,
+        "top": 19,
+        "width": 125,
+        "height": 30,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:20.087",
+          "adjustedEnd": "0:00:21.488",
+          "start": "0:00:20.087",
+          "end": "0:00:21.488"
+        }]
+      }, {
+        "id": 3,
+        "text": "& Gaming",
+        "confidence": 761.75,
+        "left": 138,
+        "top": 53,
+        "width": 153,
+        "height": 32,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:20.087",
+          "adjustedEnd": "0:00:21.488",
+          "start": "0:00:20.087",
+          "end": "0:00:21.488"
+        }]
+      }, {
+        "id": 4,
+        "text": "monitization tools",
+        "confidence": 638.5,
+        "left": 50,
+        "top": 147,
+        "width": 204,
+        "height": 18,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }]
+      }, {
+        "id": 5,
+        "text": "better esports",
+        "confidence": 715,
+        "left": 50,
+        "top": 147,
+        "width": 161,
+        "height": 22,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.751",
+          "adjustedEnd": "0:00:19.619",
+          "start": "0:00:17.751",
+          "end": "0:00:19.619"
+        }]
+      }, {
+        "id": 6,
+        "text": "how much we",
+        "confidence": 767.3333,
+        "left": 50,
+        "top": 147,
+        "width": 153,
+        "height": 18,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:24.758",
+          "adjustedEnd": "0:00:27.094",
+          "start": "0:00:24.758",
+          "end": "0:00:27.094"
+        }]
+      }, {
+        "id": 7,
+        "text": "tools",
+        "confidence": 742,
+        "left": 51,
+        "top": 148,
+        "width": 55,
+        "height": 17,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:07.941",
+          "adjustedEnd": "0:00:08.408",
+          "start": "0:00:07.941",
+          "end": "0:00:08.408"
+        }]
+      }, {
+        "id": 8,
+        "text": "sports",
+        "confidence": 844.5,
+        "left": 47,
+        "top": 149,
+        "width": 59,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.284",
+          "adjustedEnd": "0:00:17.751",
+          "start": "0:00:17.284",
+          "end": "0:00:17.751"
+        }, {
+          "adjustedStart": "0:00:19.62",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:19.62",
+          "end": "0:00:20.087"
+        }]
+      }, {
+        "id": 9,
+        "text": "• amdocs",
+        "confidence": 501,
+        "left": 250,
+        "top": 154,
+        "width": 206,
+        "height": 34,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:34.101",
+          "adjustedEnd": "0:00:35.035",
+          "start": "0:00:34.101",
+          "end": "0:00:35.035"
+        }]
+      }, {
+        "id": 10,
+        "text": "amdocs",
+        "confidence": 697,
+        "left": 279,
+        "top": 154,
+        "width": 177,
+        "height": 34,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:35.035",
+          "adjustedEnd": "0:00:36.469",
+          "start": "0:00:35.035",
+          "end": "0:00:36.469"
+        }, {
+          "adjustedStart": "0:00:36.904",
+          "adjustedEnd": "0:00:36.937",
+          "start": "0:00:36.904",
+          "end": "0:00:36.937"
+        }]
+      }, {
+        "id": 11,
+        "text": "for video games",
+        "confidence": 785.3958,
+        "left": 49,
+        "top": 172,
+        "width": 180,
+        "height": 22,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }]
+      }, {
+        "id": 12,
+        "text": "love gaming?",
+        "confidence": 771.125,
+        "left": 50,
+        "top": 172,
+        "width": 145,
+        "height": 23,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:24.758",
+          "adjustedEnd": "0:00:27.094",
+          "start": "0:00:24.758",
+          "end": "0:00:27.094"
+        }]
+      }, {
+        "id": 13,
+        "text": "experiences",
+        "confidence": 842,
+        "left": 49,
+        "top": 173,
+        "width": 130,
+        "height": 21,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.751",
+          "adjustedEnd": "0:00:19.619",
+          "start": "0:00:17.751",
+          "end": "0:00:19.619"
+        }]
+      }, {
+        "id": 14,
+        "text": "Come work with us",
+        "confidence": 560.75,
+        "left": 257,
+        "top": 220,
+        "width": 146,
+        "height": 16,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:34.101",
+          "adjustedEnd": "0:00:36.469",
+          "start": "0:00:34.101",
+          "end": "0:00:36.469"
+        }, {
+          "adjustedStart": "0:00:36.904",
+          "adjustedEnd": "0:00:36.937",
+          "start": "0:00:36.904",
+          "end": "0:00:36.937"
+        }]
+      }, {
+        "id": 15,
+        "text": "ou",
+        "confidence": 444,
+        "left": 60,
+        "top": 335,
+        "width": 26,
+        "height": 16,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:25.692",
+          "adjustedEnd": "0:00:27.561",
+          "start": "0:00:25.692",
+          "end": "0:00:27.561"
+        }]
+      }, {
+        "id": 16,
+        "text": "and we help gamers to maximize their performance",
+        "confidence": 660.9045,
+        "left": 78,
+        "top": 335,
+        "width": 469,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:20.554",
+          "adjustedEnd": "0:00:22.422",
+          "start": "0:00:20.554",
+          "end": "0:00:22.422"
+        }]
+      }, {
+        "id": 17,
+        "text": "but actually do it as art of their research",
+        "confidence": 665.7569,
+        "left": 133,
+        "top": 335,
+        "width": 372,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:28.495",
+          "adjustedEnd": "0:00:34.101",
+          "start": "0:00:28.495",
+          "end": "0:00:34.101"
+        }]
+      }, {
+        "id": 18,
+        "text": "better eSports experiences for fans and vi",
+        "confidence": 652.994,
+        "left": 159,
+        "top": 335,
+        "width": 382,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }]
+      }, {
+        "id": 19,
+        "text": "eople don't know this but amdocs is actual",
+        "confidence": 629.3281,
+        "left": 161,
+        "top": 335,
+        "width": 386,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:05.138",
+          "adjustedEnd": "0:00:07.474",
+          "start": "0:00:05.138",
+          "end": "0:00:07.474"
+        }]
+      }, {
+        "id": 20,
+        "text": "work with celebrity gamers and streame",
+        "confidence": 650.1875,
+        "left": 165,
+        "top": 335,
+        "width": 364,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:16.817",
+          "start": "0:00:14.948",
+          "end": "0:00:16.817"
+        }]
+      }, {
+        "id": 21,
+        "text": "with startups that develop monetization",
+        "confidence": 681.3,
+        "left": 168,
+        "top": 335,
+        "width": 356,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:07.474",
+          "adjustedEnd": "0:00:09.81",
+          "start": "0:00:07.474",
+          "end": "0:00:09.81"
+        }]
+      }, {
+        "id": 22,
+        "text": "Our customers own Esports leagues",
+        "confidence": 647.05,
+        "left": 168,
+        "top": 335,
+        "width": 332,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:10.744",
+          "adjustedEnd": "0:00:12.612",
+          "start": "0:00:10.744",
+          "end": "0:00:12.612"
+        }]
+      }, {
+        "id": 23,
+        "text": "tournaments, video and mobile games",
+        "confidence": 640.9375,
+        "left": 168,
+        "top": 335,
+        "width": 350,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:12.613",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:12.613",
+          "end": "0:00:14.481"
+        }]
+      }, {
+        "id": 24,
+        "text": "not only play Counter strike and Fortnite for•fu",
+        "confidence": 660.058,
+        "left": 169,
+        "top": 335,
+        "width": 429,
+        "height": 16,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:25.692",
+          "adjustedEnd": "0:00:28.028",
+          "start": "0:00:25.692",
+          "end": "0:00:28.028"
+        }]
+      }, {
+        "id": 25,
+        "text": "by reinventing connectivity",
+        "confidence": 708.3333,
+        "left": 201,
+        "top": 335,
+        "width": 242,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:23.357",
+          "adjustedEnd": "0:00:24.291",
+          "start": "0:00:23.357",
+          "end": "0:00:24.291"
+        }]
+      }, {
+        "id": 26,
+        "text": "How much we love Gaming?",
+        "confidence": 679.2,
+        "left": 202,
+        "top": 335,
+        "width": 261,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:24.291",
+          "adjustedEnd": "0:00:25.692",
+          "start": "0:00:24.291",
+          "end": "0:00:25.692"
+        }]
+      }, {
+        "id": 27,
+        "text": "for video games",
+        "confidence": 736.3333,
+        "left": 261,
+        "top": 335,
+        "width": 147,
+        "height": 20,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:10.277",
+          "adjustedEnd": "0:00:10.744",
+          "start": "0:00:10.277",
+          "end": "0:00:10.744"
+        }]
+      }, {
+        "id": 28,
+        "text": "to",
+        "confidence": 848.0312,
+        "left": 72,
+        "top": 336,
+        "width": 17,
+        "height": 15,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }]
+      }],
+      "keywords": [{
+        "id": 0,
+        "text": "mobile games",
+        "confidence": 0.9975,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:12.613",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:12.613",
+          "end": "0:00:14.481"
+        }]
+      }, {
+        "id": 1,
+        "text": "reinventing connectivity",
+        "confidence": 0.9975,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:19.33",
+          "adjustedEnd": "0:00:23.83",
+          "start": "0:00:19.33",
+          "end": "0:00:23.83"
+        }, {
+          "adjustedStart": "0:00:23.357",
+          "adjustedEnd": "0:00:24.291",
+          "start": "0:00:23.357",
+          "end": "0:00:24.291"
+        }]
+      }, {
+        "id": 2,
+        "text": "video games",
+        "confidence": 0.9961,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }, {
+          "adjustedStart": "0:00:10.277",
+          "adjustedEnd": "0:00:10.744",
+          "start": "0:00:10.277",
+          "end": "0:00:10.744"
+        }]
+      }, {
+        "id": 3,
+        "text": "ization tools",
+        "confidence": 0.9954,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }]
+      }, {
+        "id": 4,
+        "text": "love gaming",
+        "confidence": 0.9949,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:23.83",
+          "adjustedEnd": "0:00:28.22",
+          "start": "0:00:23.83",
+          "end": "0:00:28.22"
+        }, {
+          "adjustedStart": "0:00:24.758",
+          "adjustedEnd": "0:00:27.094",
+          "start": "0:00:24.758",
+          "end": "0:00:27.094"
+        }, {
+          "adjustedStart": "0:00:24.291",
+          "adjustedEnd": "0:00:25.692",
+          "start": "0:00:24.291",
+          "end": "0:00:25.692"
+        }]
+      }, {
+        "id": 5,
+        "text": "celebrity gamers",
+        "confidence": 0.9938,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:14.57",
+          "adjustedEnd": "0:00:17.74",
+          "start": "0:00:14.57",
+          "end": "0:00:17.74"
+        }, {
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:16.817",
+          "start": "0:00:14.948",
+          "end": "0:00:16.817"
+        }]
+      }, {
+        "id": 6,
+        "text": "sports experiences",
+        "confidence": 0.9887,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.74",
+          "adjustedEnd": "0:00:19.33",
+          "start": "0:00:17.74",
+          "end": "0:00:19.33"
+        }, {
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }]
+      }, {
+        "id": 7,
+        "text": "video",
+        "confidence": 0.8665,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }, {
+          "adjustedStart": "0:00:12.613",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:12.613",
+          "end": "0:00:14.481"
+        }, {
+          "adjustedStart": "0:00:10.277",
+          "adjustedEnd": "0:00:10.744",
+          "start": "0:00:10.277",
+          "end": "0:00:10.744"
+        }]
+      }, {
+        "id": 8,
+        "text": "tools",
+        "confidence": 0.8478,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:08.408",
+          "adjustedEnd": "0:00:10.277",
+          "start": "0:00:08.408",
+          "end": "0:00:10.277"
+        }, {
+          "adjustedStart": "0:00:07.941",
+          "adjustedEnd": "0:00:08.408",
+          "start": "0:00:07.941",
+          "end": "0:00:08.408"
+        }]
+      }, {
+        "id": 9,
+        "text": "experiences",
+        "confidence": 0.8478,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.74",
+          "adjustedEnd": "0:00:19.33",
+          "start": "0:00:17.74",
+          "end": "0:00:19.33"
+        }, {
+          "adjustedStart": "0:00:17.751",
+          "adjustedEnd": "0:00:19.619",
+          "start": "0:00:17.751",
+          "end": "0:00:19.619"
+        }, {
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }]
+      }, {
+        "id": 10,
+        "text": "& gaming",
+        "confidence": 0.8314,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:13.547",
+          "adjustedEnd": "0:00:14.948",
+          "start": "0:00:13.547",
+          "end": "0:00:14.948"
+        }, {
+          "adjustedStart": "0:00:20.087",
+          "adjustedEnd": "0:00:21.488",
+          "start": "0:00:20.087",
+          "end": "0:00:21.488"
+        }]
+      }, {
+        "id": 11,
+        "text": "gamers",
+        "confidence": 0.8041,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:14.57",
+          "adjustedEnd": "0:00:17.74",
+          "start": "0:00:14.57",
+          "end": "0:00:17.74"
+        }, {
+          "adjustedStart": "0:00:19.33",
+          "adjustedEnd": "0:00:23.83",
+          "start": "0:00:19.33",
+          "end": "0:00:23.83"
+        }, {
+          "adjustedStart": "0:00:20.554",
+          "adjustedEnd": "0:00:22.422",
+          "start": "0:00:20.554",
+          "end": "0:00:22.422"
+        }, {
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:16.817",
+          "start": "0:00:14.948",
+          "end": "0:00:16.817"
+        }]
+      }, {
+        "id": 12,
+        "text": "sports",
+        "confidence": 0.8041,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:17.74",
+          "adjustedEnd": "0:00:19.33",
+          "start": "0:00:17.74",
+          "end": "0:00:19.33"
+        }, {
+          "adjustedStart": "0:00:13.547",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:13.547",
+          "end": "0:00:14.481"
+        }, {
+          "adjustedStart": "0:00:20.087",
+          "adjustedEnd": "0:00:21.488",
+          "start": "0:00:20.087",
+          "end": "0:00:21.488"
+        }, {
+          "adjustedStart": "0:00:17.751",
+          "adjustedEnd": "0:00:19.619",
+          "start": "0:00:17.751",
+          "end": "0:00:19.619"
+        }, {
+          "adjustedStart": "0:00:17.284",
+          "adjustedEnd": "0:00:17.751",
+          "start": "0:00:17.284",
+          "end": "0:00:17.751"
+        }, {
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }, {
+          "adjustedStart": "0:00:10.744",
+          "adjustedEnd": "0:00:12.612",
+          "start": "0:00:10.744",
+          "end": "0:00:12.612"
+        }]
+      }, {
+        "id": 13,
+        "text": "esports",
+        "confidence": 0.7735,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:13.547",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:13.547",
+          "end": "0:00:14.481"
+        }, {
+          "adjustedStart": "0:00:20.087",
+          "adjustedEnd": "0:00:21.488",
+          "start": "0:00:20.087",
+          "end": "0:00:21.488"
+        }, {
+          "adjustedStart": "0:00:17.751",
+          "adjustedEnd": "0:00:19.619",
+          "start": "0:00:17.751",
+          "end": "0:00:19.619"
+        }, {
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }, {
+          "adjustedStart": "0:00:10.744",
+          "adjustedEnd": "0:00:12.612",
+          "start": "0:00:10.744",
+          "end": "0:00:12.612"
+        }]
+      }, {
+        "id": 14,
+        "text": "people",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }, {
+          "adjustedStart": "0:00:23.83",
+          "adjustedEnd": "0:00:28.22",
+          "start": "0:00:23.83",
+          "end": "0:00:28.22"
+        }]
+      }, {
+        "id": 15,
+        "text": "startups",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }, {
+          "adjustedStart": "0:00:07.474",
+          "adjustedEnd": "0:00:09.81",
+          "start": "0:00:07.474",
+          "end": "0:00:09.81"
+        }]
+      }, {
+        "id": 16,
+        "text": "customers",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:10.744",
+          "adjustedEnd": "0:00:12.612",
+          "start": "0:00:10.744",
+          "end": "0:00:12.612"
+        }]
+      }, {
+        "id": 17,
+        "text": "work",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }, {
+          "adjustedStart": "0:00:14.57",
+          "adjustedEnd": "0:00:17.74",
+          "start": "0:00:14.57",
+          "end": "0:00:17.74"
+        }, {
+          "adjustedStart": "0:00:34.101",
+          "adjustedEnd": "0:00:36.469",
+          "start": "0:00:34.101",
+          "end": "0:00:36.469"
+        }, {
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:16.817",
+          "start": "0:00:14.948",
+          "end": "0:00:16.817"
+        }]
+      }, {
+        "id": 18,
+        "text": "fans",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:17.74",
+          "adjustedEnd": "0:00:19.33",
+          "start": "0:00:17.74",
+          "end": "0:00:19.33"
+        }, {
+          "adjustedStart": "0:00:16.817",
+          "adjustedEnd": "0:00:20.087",
+          "start": "0:00:16.817",
+          "end": "0:00:20.087"
+        }]
+      }, {
+        "id": 19,
+        "text": "maximize",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:19.33",
+          "adjustedEnd": "0:00:23.83",
+          "start": "0:00:19.33",
+          "end": "0:00:23.83"
+        }, {
+          "adjustedStart": "0:00:20.554",
+          "adjustedEnd": "0:00:22.422",
+          "start": "0:00:20.554",
+          "end": "0:00:22.422"
+        }]
+      }, {
+        "id": 20,
+        "text": "performance",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:19.33",
+          "adjustedEnd": "0:00:23.83",
+          "start": "0:00:19.33",
+          "end": "0:00:23.83"
+        }, {
+          "adjustedStart": "0:00:20.554",
+          "adjustedEnd": "0:00:22.422",
+          "start": "0:00:20.554",
+          "end": "0:00:22.422"
+        }]
+      }, {
+        "id": 21,
+        "text": "research",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:28.22",
+          "adjustedEnd": "0:00:30.42",
+          "start": "0:00:28.22",
+          "end": "0:00:30.42"
+        }, {
+          "adjustedStart": "0:00:28.495",
+          "adjustedEnd": "0:00:34.101",
+          "start": "0:00:28.495",
+          "end": "0:00:34.101"
+        }]
+      }, {
+        "id": 22,
+        "text": "amdocs",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:34.101",
+          "adjustedEnd": "0:00:35.035",
+          "start": "0:00:34.101",
+          "end": "0:00:35.035"
+        }, {
+          "adjustedStart": "0:00:35.035",
+          "adjustedEnd": "0:00:36.469",
+          "start": "0:00:35.035",
+          "end": "0:00:36.469"
+        }, {
+          "adjustedStart": "0:00:05.138",
+          "adjustedEnd": "0:00:07.474",
+          "start": "0:00:05.138",
+          "end": "0:00:07.474"
+        }]
+      }, {
+        "id": 23,
+        "text": "eople",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }, {
+          "adjustedStart": "0:00:23.83",
+          "adjustedEnd": "0:00:28.22",
+          "start": "0:00:23.83",
+          "end": "0:00:28.22"
+        }, {
+          "adjustedStart": "0:00:05.138",
+          "adjustedEnd": "0:00:07.474",
+          "start": "0:00:05.138",
+          "end": "0:00:07.474"
+        }]
+      }, {
+        "id": 24,
+        "text": "actual",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:09.46",
+          "start": "0:00:04.81",
+          "end": "0:00:09.46"
+        }, {
+          "adjustedStart": "0:00:28.22",
+          "adjustedEnd": "0:00:30.42",
+          "start": "0:00:28.22",
+          "end": "0:00:30.42"
+        }, {
+          "adjustedStart": "0:00:28.495",
+          "adjustedEnd": "0:00:34.101",
+          "start": "0:00:28.495",
+          "end": "0:00:34.101"
+        }, {
+          "adjustedStart": "0:00:05.138",
+          "adjustedEnd": "0:00:07.474",
+          "start": "0:00:05.138",
+          "end": "0:00:07.474"
+        }]
+      }, {
+        "id": 25,
+        "text": "streame",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:14.57",
+          "adjustedEnd": "0:00:17.74",
+          "start": "0:00:14.57",
+          "end": "0:00:17.74"
+        }, {
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:16.817",
+          "start": "0:00:14.948",
+          "end": "0:00:16.817"
+        }]
+      }, {
+        "id": 26,
+        "text": "tournaments",
+        "confidence": 0.6211,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:09.46",
+          "adjustedEnd": "0:00:14.57",
+          "start": "0:00:09.46",
+          "end": "0:00:14.57"
+        }, {
+          "adjustedStart": "0:00:12.613",
+          "adjustedEnd": "0:00:14.481",
+          "start": "0:00:12.613",
+          "end": "0:00:14.481"
+        }]
+      }],
+      "topics": [{
+        "id": 0,
+        "name": "Games and Gaming",
+        "referenceId": "Games",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.944,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 1,
+        "name": "Pc Gaming",
+        "referenceId": "Games and Gaming/Pc Gaming",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.7481,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 2,
+        "name": "Video Game Industry",
+        "referenceId": "Games and Gaming/Game Industry/Video Game Industry",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.7462,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 3,
+        "name": "Social Games",
+        "referenceId": "Games and Gaming/Social Games",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.7276,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 4,
+        "name": "Online Multiplayer Gaming",
+        "referenceId": "Games and Gaming/Multiplayer Games/Online Multiplayer Gaming",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.6041,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 5,
+        "name": "Video Games",
+        "referenceId": "Games and Gaming/Video Games",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.593,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 6,
+        "name": "Gamers",
+        "referenceId": "Games and Gaming/Video Games/Gamers",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.5181,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 7,
+        "name": "Social Gaming Startups and Companies",
+        "referenceId": "Games and Gaming/Game Industry/Social Gaming Startups and Companies",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.4728,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 8,
+        "name": "Game Design",
+        "referenceId": "Games and Gaming/Game Industry/Game Design",
+        "referenceType": "VideoIndexer",
+        "iptcName": "Lifestyle and Leisure",
+        "confidence": 0.4555,
+        "iabName": "Hobbies & Interests",
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }, {
+        "id": 9,
+        "name": "Gaming Industry",
+        "referenceId": "Gaming Industry",
+        "referenceType": "VideoIndexer",
+        "confidence": 0.4367,
+        "iabName": null,
+        "language": "en-US",
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:00",
+          "end": "0:00:37.131"
+        }]
+      }],
+      "faces": [{
+        "id": 1025,
+        "name": "Unknown #1",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "3e6eed98-07e7-4508-9537-d101865a7d68",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "37638048-698b-41fa-9f80-aa5a302a7a73",
+          "fileName": "FaceThumbnail_37638048-698b-41fa-9f80-aa5a302a7a73.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:05.138",
+            "adjustedEnd": "0:00:05.171",
+            "start": "0:00:05.138",
+            "end": "0:00:05.171"
+          }]
+        }, {
+          "id": "3e6eed98-07e7-4508-9537-d101865a7d68",
+          "fileName": "FaceThumbnail_3e6eed98-07e7-4508-9537-d101865a7d68.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:06.34",
+            "adjustedEnd": "0:00:06.373",
+            "start": "0:00:06.34",
+            "end": "0:00:06.373"
+          }]
+        }, {
+          "id": "5ab036f9-16d9-40b8-9072-63af109023ae",
+          "fileName": "FaceThumbnail_5ab036f9-16d9-40b8-9072-63af109023ae.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:11.345",
+            "adjustedEnd": "0:00:11.378",
+            "start": "0:00:11.345",
+            "end": "0:00:11.378"
+          }]
+        }, {
+          "id": "a3d62fb3-caa5-4330-948d-fc89d744979a",
+          "fileName": "FaceThumbnail_a3d62fb3-caa5-4330-948d-fc89d744979a.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:16.35",
+            "adjustedEnd": "0:00:16.383",
+            "start": "0:00:16.35",
+            "end": "0:00:16.383"
+          }]
+        }, {
+          "id": "2280a576-1925-4f4b-8fe4-d233a91822f1",
+          "fileName": "FaceThumbnail_2280a576-1925-4f4b-8fe4-d233a91822f1.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:26.96",
+            "adjustedEnd": "0:00:26.993",
+            "start": "0:00:26.96",
+            "end": "0:00:26.993"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["37638048-698b-41fa-9f80-aa5a302a7a73", "3e6eed98-07e7-4508-9537-d101865a7d68", "5ab036f9-16d9-40b8-9072-63af109023ae"],
+          "adjustedStart": "0:00:04.805",
+          "adjustedEnd": "0:00:11.511",
+          "start": "0:00:04.805",
+          "end": "0:00:11.511"
+        }, {
+          "thumbnailsIds": ["a3d62fb3-caa5-4330-948d-fc89d744979a"],
+          "adjustedStart": "0:00:14.681",
+          "adjustedEnd": "0:00:19.753",
+          "start": "0:00:14.681",
+          "end": "0:00:19.753"
+        }, {
+          "thumbnailsIds": ["2280a576-1925-4f4b-8fe4-d233a91822f1"],
+          "adjustedStart": "0:00:24.224",
+          "adjustedEnd": "0:00:27.294",
+          "start": "0:00:24.224",
+          "end": "0:00:27.294"
+        }]
+      }, {
+        "id": 1275,
+        "name": "Unknown #2",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "fd42af2f-e97d-4a83-95fc-b4d67df06410",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "fd42af2f-e97d-4a83-95fc-b4d67df06410",
+          "fileName": "FaceThumbnail_fd42af2f-e97d-4a83-95fc-b4d67df06410.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:19.953",
+            "adjustedEnd": "0:00:19.986",
+            "start": "0:00:19.953",
+            "end": "0:00:19.986"
+          }]
+        }, {
+          "id": "f0fda4fc-3e3d-4d93-b6ae-6eee6c959c01",
+          "fileName": "FaceThumbnail_f0fda4fc-3e3d-4d93-b6ae-6eee6c959c01.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:20.22",
+            "adjustedEnd": "0:00:20.253",
+            "start": "0:00:20.22",
+            "end": "0:00:20.253"
+          }]
+        }, {
+          "id": "eeb8f9d8-cbf7-4284-9102-77a657806ecd",
+          "fileName": "FaceThumbnail_eeb8f9d8-cbf7-4284-9102-77a657806ecd.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:21.955",
+            "adjustedEnd": "0:00:21.988",
+            "start": "0:00:21.955",
+            "end": "0:00:21.988"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["f0fda4fc-3e3d-4d93-b6ae-6eee6c959c01", "fd42af2f-e97d-4a83-95fc-b4d67df06410", "eeb8f9d8-cbf7-4284-9102-77a657806ecd"],
+          "adjustedStart": "0:00:19.753",
+          "adjustedEnd": "0:00:22.322",
+          "start": "0:00:19.753",
+          "end": "0:00:22.322"
+        }]
+      }, {
+        "id": 1127,
+        "name": "Unknown #4",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "ebb60027-5f89-4262-b7b1-7ad6d37152d2",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "ebb60027-5f89-4262-b7b1-7ad6d37152d2",
+          "fileName": "FaceThumbnail_ebb60027-5f89-4262-b7b1-7ad6d37152d2.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:14.414",
+            "adjustedEnd": "0:00:14.447",
+            "start": "0:00:14.414",
+            "end": "0:00:14.447"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["ebb60027-5f89-4262-b7b1-7ad6d37152d2"],
+          "adjustedStart": "0:00:13.48",
+          "adjustedEnd": "0:00:14.681",
+          "start": "0:00:13.48",
+          "end": "0:00:14.681"
+        }]
+      }, {
+        "id": 1200,
+        "name": "Unknown #5",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "2b293059-919b-4b3c-91f8-a07b26492c09",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "2b293059-919b-4b3c-91f8-a07b26492c09",
+          "fileName": "FaceThumbnail_2b293059-919b-4b3c-91f8-a07b26492c09.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:12.546",
+            "adjustedEnd": "0:00:12.579",
+            "start": "0:00:12.546",
+            "end": "0:00:12.579"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["2b293059-919b-4b3c-91f8-a07b26492c09"],
+          "adjustedStart": "0:00:12.479",
+          "adjustedEnd": "0:00:13.48",
+          "start": "0:00:12.479",
+          "end": "0:00:13.48"
+        }]
+      }, {
+        "id": 1199,
+        "name": "Unknown #6",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "b6b1298b-c108-4292-9ef6-8a4d459b4558",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "b6b1298b-c108-4292-9ef6-8a4d459b4558",
+          "fileName": "FaceThumbnail_b6b1298b-c108-4292-9ef6-8a4d459b4558.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:12.546",
+            "adjustedEnd": "0:00:12.579",
+            "start": "0:00:12.546",
+            "end": "0:00:12.579"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["b6b1298b-c108-4292-9ef6-8a4d459b4558"],
+          "adjustedStart": "0:00:12.479",
+          "adjustedEnd": "0:00:13.48",
+          "start": "0:00:12.479",
+          "end": "0:00:13.48"
+        }]
+      }, {
+        "id": 1325,
+        "name": "Unknown #8",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "20fa912c-b1b0-4082-9437-c6727e92af86",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "20fa912c-b1b0-4082-9437-c6727e92af86",
+          "fileName": "FaceThumbnail_20fa912c-b1b0-4082-9437-c6727e92af86.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:22.623",
+            "adjustedEnd": "0:00:22.656",
+            "start": "0:00:22.623",
+            "end": "0:00:22.656"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["20fa912c-b1b0-4082-9437-c6727e92af86"],
+          "adjustedStart": "0:00:22.356",
+          "adjustedEnd": "0:00:23.29",
+          "start": "0:00:22.356",
+          "end": "0:00:23.29"
+        }]
+      }, {
+        "id": 1324,
+        "name": "Unknown #7",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "5093821b-c22d-4051-9687-112de8902ed4",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "5093821b-c22d-4051-9687-112de8902ed4",
+          "fileName": "FaceThumbnail_5093821b-c22d-4051-9687-112de8902ed4.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:22.489",
+            "adjustedEnd": "0:00:22.522",
+            "start": "0:00:22.489",
+            "end": "0:00:22.522"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["5093821b-c22d-4051-9687-112de8902ed4"],
+          "adjustedStart": "0:00:22.356",
+          "adjustedEnd": "0:00:23.29",
+          "start": "0:00:22.356",
+          "end": "0:00:23.29"
+        }]
+      }, {
+        "id": 1322,
+        "name": "Unknown #9",
+        "confidence": 0,
+        "description": null,
+        "thumbnailId": "fa594166-616e-4548-879d-07e24461fcf0",
+        "title": null,
+        "imageUrl": null,
+        "thumbnails": [{
+          "id": "fa594166-616e-4548-879d-07e24461fcf0",
+          "fileName": "FaceThumbnail_fa594166-616e-4548-879d-07e24461fcf0.jpg",
+          "instances": [{
+            "adjustedStart": "0:00:23.29",
+            "adjustedEnd": "0:00:23.323",
+            "start": "0:00:23.29",
+            "end": "0:00:23.323"
+          }]
+        }],
+        "instances": [{
+          "thumbnailsIds": ["fa594166-616e-4548-879d-07e24461fcf0"],
+          "adjustedStart": "0:00:23.29",
+          "adjustedEnd": "0:00:24.224",
+          "start": "0:00:23.29",
+          "end": "0:00:24.224"
+        }]
+      }],
+      "labels": [{
+        "id": 0,
+        "name": "person",
+        "referenceId": "person",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.8919,
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:02.136",
+          "start": "0:00:00",
+          "end": "0:00:02.136"
+        }, {
+          "confidence": 0.9918,
+          "adjustedStart": "0:00:04.271",
+          "adjustedEnd": "0:00:11.745",
+          "start": "0:00:04.271",
+          "end": "0:00:11.745"
+        }, {
+          "confidence": 0.981,
+          "adjustedStart": "0:00:12.813",
+          "adjustedEnd": "0:00:13.881",
+          "start": "0:00:12.813",
+          "end": "0:00:13.881"
+        }, {
+          "confidence": 0.9794,
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:20.287",
+          "start": "0:00:14.948",
+          "end": "0:00:20.287"
+        }, {
+          "confidence": 0.9659,
+          "adjustedStart": "0:00:21.355",
+          "adjustedEnd": "0:00:27.761",
+          "start": "0:00:21.355",
+          "end": "0:00:27.761"
+        }, {
+          "confidence": 0.9651,
+          "adjustedStart": "0:00:28.829",
+          "adjustedEnd": "0:00:32.032",
+          "start": "0:00:28.829",
+          "end": "0:00:32.032"
+        }]
+      }, {
+        "id": 1,
+        "name": "outdoor",
+        "referenceId": null,
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9412,
+          "adjustedStart": "0:00:02.135",
+          "adjustedEnd": "0:00:03.203",
+          "start": "0:00:02.135",
+          "end": "0:00:03.203"
+        }]
+      }, {
+        "id": 2,
+        "name": "wall",
+        "referenceId": "structure/wall",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9991,
+          "adjustedStart": "0:00:05.339",
+          "adjustedEnd": "0:00:11.745",
+          "start": "0:00:05.339",
+          "end": "0:00:11.745"
+        }, {
+          "confidence": 0.9964,
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:20.287",
+          "start": "0:00:14.948",
+          "end": "0:00:20.287"
+        }, {
+          "confidence": 0.997,
+          "adjustedStart": "0:00:24.558",
+          "adjustedEnd": "0:00:27.761",
+          "start": "0:00:24.558",
+          "end": "0:00:27.761"
+        }]
+      }, {
+        "id": 3,
+        "name": "indoor",
+        "referenceId": null,
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9872,
+          "adjustedStart": "0:00:05.339",
+          "adjustedEnd": "0:00:11.745",
+          "start": "0:00:05.339",
+          "end": "0:00:11.745"
+        }, {
+          "confidence": 0.9788,
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:20.287",
+          "start": "0:00:14.948",
+          "end": "0:00:20.287"
+        }, {
+          "confidence": 0.9853,
+          "adjustedStart": "0:00:24.558",
+          "adjustedEnd": "0:00:27.761",
+          "start": "0:00:24.558",
+          "end": "0:00:27.761"
+        }, {
+          "confidence": 0.9887,
+          "adjustedStart": "0:00:29.897",
+          "adjustedEnd": "0:00:32.032",
+          "start": "0:00:29.897",
+          "end": "0:00:32.032"
+        }]
+      }, {
+        "id": 4,
+        "name": "man",
+        "referenceId": "person/man",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9888,
+          "adjustedStart": "0:00:05.339",
+          "adjustedEnd": "0:00:11.745",
+          "start": "0:00:05.339",
+          "end": "0:00:11.745"
+        }, {
+          "confidence": 0.9752,
+          "adjustedStart": "0:00:14.948",
+          "adjustedEnd": "0:00:20.287",
+          "start": "0:00:14.948",
+          "end": "0:00:20.287"
+        }, {
+          "confidence": 0.9721,
+          "adjustedStart": "0:00:23.49",
+          "adjustedEnd": "0:00:27.761",
+          "start": "0:00:23.49",
+          "end": "0:00:27.761"
+        }, {
+          "confidence": 0.9467,
+          "adjustedStart": "0:00:30.964",
+          "adjustedEnd": "0:00:32.032",
+          "start": "0:00:30.964",
+          "end": "0:00:32.032"
+        }]
+      }, {
+        "id": 5,
+        "name": "monitor",
+        "referenceId": "monitor",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9082,
+          "adjustedStart": "0:00:11.745",
+          "adjustedEnd": "0:00:12.813",
+          "start": "0:00:11.745",
+          "end": "0:00:12.813"
+        }]
+      }, {
+        "id": 6,
+        "name": "cellphone",
+        "referenceId": "electronic equipment/telephone/cellular telephone/cellphone",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.8032,
+          "adjustedStart": "0:00:20.287",
+          "adjustedEnd": "0:00:21.355",
+          "start": "0:00:20.287",
+          "end": "0:00:21.355"
+        }]
+      }, {
+        "id": 7,
+        "name": "woman",
+        "referenceId": "person/woman",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9611,
+          "adjustedStart": "0:00:21.355",
+          "adjustedEnd": "0:00:22.423",
+          "start": "0:00:21.355",
+          "end": "0:00:22.423"
+        }]
+      }, {
+        "id": 8,
+        "name": "computer",
+        "referenceId": "device/machine/computer",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9647,
+          "adjustedStart": "0:00:29.897",
+          "adjustedEnd": "0:00:32.032",
+          "start": "0:00:29.897",
+          "end": "0:00:32.032"
+        }]
+      }, {
+        "id": 9,
+        "name": "laptop",
+        "referenceId": "computer/portable computer/laptop",
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.9218,
+          "adjustedStart": "0:00:29.897",
+          "adjustedEnd": "0:00:32.032",
+          "start": "0:00:29.897",
+          "end": "0:00:32.032"
+        }]
+      }, {
+        "id": 10,
+        "name": "electronics",
+        "referenceId": null,
+        "language": "en-US",
+        "instances": [{
+          "confidence": 0.807,
+          "adjustedStart": "0:00:29.897",
+          "adjustedEnd": "0:00:30.965",
+          "start": "0:00:29.897",
+          "end": "0:00:30.965"
+        }]
+      }],
+      "scenes": [{
+        "id": 0,
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:04.805",
+          "start": "0:00:00",
+          "end": "0:00:04.805"
+        }]
+      }, {
+        "id": 1,
+        "instances": [{
+          "adjustedStart": "0:00:04.805",
+          "adjustedEnd": "0:00:19.786",
+          "start": "0:00:04.805",
+          "end": "0:00:19.786"
+        }]
+      }, {
+        "id": 2,
+        "instances": [{
+          "adjustedStart": "0:00:19.786",
+          "adjustedEnd": "0:00:24.258",
+          "start": "0:00:19.786",
+          "end": "0:00:24.258"
+        }]
+      }, {
+        "id": 3,
+        "instances": [{
+          "adjustedStart": "0:00:24.258",
+          "adjustedEnd": "0:00:27.661",
+          "start": "0:00:24.258",
+          "end": "0:00:27.661"
+        }]
+      }, {
+        "id": 4,
+        "instances": [{
+          "adjustedStart": "0:00:27.661",
+          "adjustedEnd": "0:00:31.364",
+          "start": "0:00:27.661",
+          "end": "0:00:31.364"
+        }]
+      }],
+      "shots": [{
+        "id": 0,
+        "keyFrames": [{
+          "id": 0,
+          "instances": [{
+            "thumbnailId": "21e02176-bee8-4dee-94d8-82eac10d39a0",
+            "adjustedStart": "0:00:00.167",
+            "adjustedEnd": "0:00:00.2",
+            "start": "0:00:00.167",
+            "end": "0:00:00.2"
+          }]
+        }, {
+          "id": 1,
+          "instances": [{
+            "thumbnailId": "5c3c6ca4-c279-41a3-aabb-fa96fde67c46",
+            "adjustedStart": "0:00:00.2",
+            "adjustedEnd": "0:00:00.233",
+            "start": "0:00:00.2",
+            "end": "0:00:00.233"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:01.568",
+          "start": "0:00:00",
+          "end": "0:00:01.568"
+        }]
+      }, {
+        "id": 1,
+        "keyFrames": [{
+          "id": 2,
+          "instances": [{
+            "thumbnailId": "a26cf9e4-3c9f-4f4f-aabe-0154d6df9550",
+            "adjustedStart": "0:00:01.568",
+            "adjustedEnd": "0:00:01.601",
+            "start": "0:00:01.568",
+            "end": "0:00:01.601"
+          }]
+        }, {
+          "id": 3,
+          "instances": [{
+            "thumbnailId": "f7820faa-d723-41ab-b337-2f8fa3552f9e",
+            "adjustedStart": "0:00:02.102",
+            "adjustedEnd": "0:00:02.135",
+            "start": "0:00:02.102",
+            "end": "0:00:02.135"
+          }]
+        }, {
+          "id": 4,
+          "instances": [{
+            "thumbnailId": "2c4562bf-5bf6-40ed-ad95-9bdc6303ca4e",
+            "adjustedStart": "0:00:02.369",
+            "adjustedEnd": "0:00:02.402",
+            "start": "0:00:02.369",
+            "end": "0:00:02.402"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:01.568",
+          "adjustedEnd": "0:00:02.703",
+          "start": "0:00:01.568",
+          "end": "0:00:02.703"
+        }]
+      }, {
+        "id": 2,
+        "keyFrames": [{
+          "id": 5,
+          "instances": [{
+            "thumbnailId": "f0d1806f-6149-4e0c-adc7-6ed96e0e30ca",
+            "adjustedStart": "0:00:02.703",
+            "adjustedEnd": "0:00:02.736",
+            "start": "0:00:02.703",
+            "end": "0:00:02.736"
+          }]
+        }, {
+          "id": 6,
+          "instances": [{
+            "thumbnailId": "4c3f0bd1-7988-48a7-993c-14aa92c4e76e",
+            "adjustedStart": "0:00:03.07",
+            "adjustedEnd": "0:00:03.103",
+            "start": "0:00:03.07",
+            "end": "0:00:03.103"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:02.703",
+          "adjustedEnd": "0:00:03.604",
+          "start": "0:00:02.703",
+          "end": "0:00:03.604"
+        }]
+      }, {
+        "id": 3,
+        "keyFrames": [{
+          "id": 7,
+          "instances": [{
+            "thumbnailId": "01ac51a1-8b0b-4aca-80a9-f5255dc503b3",
+            "adjustedStart": "0:00:03.604",
+            "adjustedEnd": "0:00:03.637",
+            "start": "0:00:03.604",
+            "end": "0:00:03.637"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:03.604",
+          "adjustedEnd": "0:00:04.805",
+          "start": "0:00:03.604",
+          "end": "0:00:04.805"
+        }]
+      }, {
+        "id": 4,
+        "keyFrames": [{
+          "id": 8,
+          "instances": [{
+            "thumbnailId": "52626b7c-4104-4e2b-952d-39bf1d42c905",
+            "adjustedStart": "0:00:04.805",
+            "adjustedEnd": "0:00:04.838",
+            "start": "0:00:04.805",
+            "end": "0:00:04.838"
+          }]
+        }, {
+          "id": 9,
+          "instances": [{
+            "thumbnailId": "97d5a597-4f27-4d1a-81b2-5aa59d88c478",
+            "adjustedStart": "0:00:10.377",
+            "adjustedEnd": "0:00:10.41",
+            "start": "0:00:10.377",
+            "end": "0:00:10.41"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:04.805",
+          "adjustedEnd": "0:00:11.545",
+          "start": "0:00:04.805",
+          "end": "0:00:11.545"
+        }]
+      }, {
+        "id": 5,
+        "keyFrames": [{
+          "id": 10,
+          "instances": [{
+            "thumbnailId": "c94be917-204c-4ff8-b54b-82d5ff269dc3",
+            "adjustedStart": "0:00:11.545",
+            "adjustedEnd": "0:00:11.578",
+            "start": "0:00:11.545",
+            "end": "0:00:11.578"
+          }]
+        }, {
+          "id": 11,
+          "instances": [{
+            "thumbnailId": "ac6d9171-decc-41c9-9ba7-b813bfda8b8f",
+            "adjustedStart": "0:00:12.446",
+            "adjustedEnd": "0:00:12.479",
+            "start": "0:00:12.446",
+            "end": "0:00:12.479"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:11.545",
+          "adjustedEnd": "0:00:13.714",
+          "start": "0:00:11.545",
+          "end": "0:00:13.714"
+        }]
+      }, {
+        "id": 6,
+        "keyFrames": [{
+          "id": 12,
+          "instances": [{
+            "thumbnailId": "156f632c-4ba4-4c26-83f7-d03277eac219",
+            "adjustedStart": "0:00:13.714",
+            "adjustedEnd": "0:00:13.747",
+            "start": "0:00:13.714",
+            "end": "0:00:13.747"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:13.714",
+          "adjustedEnd": "0:00:14.715",
+          "start": "0:00:13.714",
+          "end": "0:00:14.715"
+        }]
+      }, {
+        "id": 7,
+        "keyFrames": [{
+          "id": 13,
+          "instances": [{
+            "thumbnailId": "e7940bbe-146c-4f47-8709-b24852f0768f",
+            "adjustedStart": "0:00:14.715",
+            "adjustedEnd": "0:00:14.748",
+            "start": "0:00:14.715",
+            "end": "0:00:14.748"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:14.715",
+          "adjustedEnd": "0:00:19.786",
+          "start": "0:00:14.715",
+          "end": "0:00:19.786"
+        }]
+      }, {
+        "id": 8,
+        "keyFrames": [{
+          "id": 14,
+          "instances": [{
+            "thumbnailId": "fd3d93c0-881b-49db-ac3f-4546073e58c0",
+            "adjustedStart": "0:00:19.786",
+            "adjustedEnd": "0:00:19.819",
+            "start": "0:00:19.786",
+            "end": "0:00:19.819"
+          }]
+        }, {
+          "id": 15,
+          "instances": [{
+            "thumbnailId": "13aae479-f737-413c-9ee6-ca597a1d605b",
+            "adjustedStart": "0:00:20.921",
+            "adjustedEnd": "0:00:20.954",
+            "start": "0:00:20.921",
+            "end": "0:00:20.954"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:19.786",
+          "adjustedEnd": "0:00:22.356",
+          "start": "0:00:19.786",
+          "end": "0:00:22.356"
+        }]
+      }, {
+        "id": 9,
+        "keyFrames": [{
+          "id": 16,
+          "instances": [{
+            "thumbnailId": "487c341d-925a-443d-bf95-15808c430c04",
+            "adjustedStart": "0:00:22.356",
+            "adjustedEnd": "0:00:22.389",
+            "start": "0:00:22.356",
+            "end": "0:00:22.389"
+          }]
+        }, {
+          "id": 17,
+          "instances": [{
+            "thumbnailId": "4246e91e-9a62-4e06-a0a8-a5e28edc9310",
+            "adjustedStart": "0:00:23.49",
+            "adjustedEnd": "0:00:23.523",
+            "start": "0:00:23.49",
+            "end": "0:00:23.523"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:22.356",
+          "adjustedEnd": "0:00:24.258",
+          "start": "0:00:22.356",
+          "end": "0:00:24.258"
+        }]
+      }, {
+        "id": 10,
+        "keyFrames": [{
+          "id": 18,
+          "instances": [{
+            "thumbnailId": "3d63e4a0-bd90-4654-8277-295d77ccadbf",
+            "adjustedStart": "0:00:24.258",
+            "adjustedEnd": "0:00:24.291",
+            "start": "0:00:24.258",
+            "end": "0:00:24.291"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:24.258",
+          "adjustedEnd": "0:00:27.661",
+          "start": "0:00:24.258",
+          "end": "0:00:27.661"
+        }]
+      }, {
+        "id": 11,
+        "keyFrames": [{
+          "id": 19,
+          "instances": [{
+            "thumbnailId": "115a4f7c-c9a8-494c-8b07-68dd25192447",
+            "adjustedStart": "0:00:27.661",
+            "adjustedEnd": "0:00:27.694",
+            "start": "0:00:27.661",
+            "end": "0:00:27.694"
+          }]
+        }, {
+          "id": 20,
+          "instances": [{
+            "thumbnailId": "81fc0f3d-28cb-4c4c-92bd-2aec3b64a45b",
+            "adjustedStart": "0:00:28.061",
+            "adjustedEnd": "0:00:28.094",
+            "start": "0:00:28.061",
+            "end": "0:00:28.094"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:27.661",
+          "adjustedEnd": "0:00:29.997",
+          "start": "0:00:27.661",
+          "end": "0:00:29.997"
+        }]
+      }, {
+        "id": 12,
+        "keyFrames": [{
+          "id": 21,
+          "instances": [{
+            "thumbnailId": "87a01116-36c4-41e3-9a34-32104e70ec75",
+            "adjustedStart": "0:00:29.997",
+            "adjustedEnd": "0:00:30.03",
+            "start": "0:00:29.997",
+            "end": "0:00:30.03"
+          }]
+        }, {
+          "id": 22,
+          "instances": [{
+            "thumbnailId": "610f7bc7-3697-4afa-b9ea-e2713522dcc5",
+            "adjustedStart": "0:00:30.43",
+            "adjustedEnd": "0:00:30.463",
+            "start": "0:00:30.43",
+            "end": "0:00:30.463"
+          }]
+        }, {
+          "id": 23,
+          "instances": [{
+            "thumbnailId": "9bef0f58-7e8f-4c3f-974e-26fca7d6d141",
+            "adjustedStart": "0:00:30.898",
+            "adjustedEnd": "0:00:30.931",
+            "start": "0:00:30.898",
+            "end": "0:00:30.931"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:29.997",
+          "adjustedEnd": "0:00:31.331",
+          "start": "0:00:29.997",
+          "end": "0:00:31.331"
+        }]
+      }, {
+        "id": 13,
+        "keyFrames": [{
+          "id": 24,
+          "instances": [{
+            "thumbnailId": "5491574f-f74f-4ba2-95ac-a4c2d70491ec",
+            "adjustedStart": "0:00:31.331",
+            "adjustedEnd": "0:00:31.364",
+            "start": "0:00:31.331",
+            "end": "0:00:31.364"
+          }]
+        }],
+        "instances": [{
+          "adjustedStart": "0:00:31.331",
+          "adjustedEnd": "0:00:31.364",
+          "start": "0:00:31.331",
+          "end": "0:00:31.364"
+        }]
+      }],
+      "audioEffects": [{
+        "id": 0,
+        "type": "Silence",
+        "instances": [{
+          "adjustedStart": "0:00:35.076",
+          "adjustedEnd": "0:00:37.129",
+          "start": "0:00:35.076",
+          "end": "0:00:37.129"
+        }]
+      }],
+      "visualContentModeration": [{
+        "id": 0,
+        "adultScore": 0,
+        "racyScore": 0.874,
+        "instances": [{
+          "adjustedStart": "0:00:13.714",
+          "adjustedEnd": "0:00:13.747",
+          "start": "0:00:13.714",
+          "end": "0:00:13.747"
+        }]
+      }],
+      "blocks": [{
+        "id": 0,
+        "instances": [{
+          "adjustedStart": "0:00:00",
+          "adjustedEnd": "0:00:30.42",
+          "start": "0:00:00",
+          "end": "0:00:30.42"
+        }]
+      }, {
+        "id": 1,
+        "instances": [{
+          "adjustedStart": "0:00:30.42",
+          "adjustedEnd": "0:00:37.131",
+          "start": "0:00:30.42",
+          "end": "0:00:37.131"
+        }]
+      }],
+      "framePatterns": [{
+        "id": 0,
+        "patternType": "Black",
+        "confidence": 1,
+        "instances": [{
+          "adjustedStart": "0:00:03.57",
+          "adjustedEnd": "0:00:03.604",
+          "start": "0:00:03.57",
+          "end": "0:00:03.604"
+        }]
+      }],
+      "speakers": [{
+        "id": 1,
+        "name": "Speaker #1",
+        "instances": [{
+          "adjustedStart": "0:00:04.81",
+          "adjustedEnd": "0:00:12.1",
+          "start": "0:00:04.81",
+          "end": "0:00:12.1"
+        }]
+      }, {
+        "id": 2,
+        "name": "Speaker #2",
+        "instances": [{
+          "adjustedStart": "0:00:12.15",
+          "adjustedEnd": "0:00:15.2",
+          "start": "0:00:12.15",
+          "end": "0:00:15.2"
+        }]
+      }, {
+        "id": 3,
+        "name": "Speaker #3",
+        "instances": [{
+          "adjustedStart": "0:00:15.25",
+          "adjustedEnd": "0:00:24.27",
+          "start": "0:00:15.25",
+          "end": "0:00:24.27"
+        }]
+      }, {
+        "id": 4,
+        "name": "Speaker #4",
+        "instances": [{
+          "adjustedStart": "0:00:24.32",
+          "adjustedEnd": "0:00:30.43",
+          "start": "0:00:24.32",
+          "end": "0:00:30.43"
+        }]
+      }],
+      "textualContentModeration": {
+        "id": 0,
+        "bannedWordsCount": 1,
+        "bannedWordsRatio": 0.005,
+        "instances": []
+      },
+      "statistics": {
+        "correspondenceCount": 3,
+        "speakerTalkToListenRatio": {
+          "1": 0.392,
+          "2": 0.085,
+          "3": 0.282,
+          "4": 0.239
+        },
+        "speakerLongestMonolog": {
+          "1": 14,
+          "2": 3,
+          "3": 10,
+          "4": 8
+        },
+        "speakerNumberOfFragments": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 1
+        },
+        "speakerWordCount": {
+          "1": 32,
+          "2": 10,
+          "3": 34,
+          "4": 10
+        }
+      },
+      "sourceLanguageConfidence": 1
+    },
+    "thumbnailId": "50c4b1e2-2d43-476a-b04c-afb3fcc8e905",
+    "publishedUrl": "https://rodmandev.streaming.mediaservices.windows.net:443/0a8f0bb2-29d0-419e-9d3f-643def8aca89/e005e0f6-e7d2-412c-8696-65e08830.ism/manifest(encryption=cbc)",
+    "publishedProxyUrl": null,
+    "viewToken": "Bearer=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cm46bWljcm9zb2Z0OmF6dXJlOm1lZGlhc2VydmljZXM6Y29udGVudGtleWlkZW50aWZpZXIiOiJhMWMzNGY3Yi00M2Q4LTQ3N2ItOWJmOS1iYzllNTRhNjQwMzciLCJpc3MiOiJodHRwczovL2JyZWFrZG93bi5tZSIsImF1ZCI6IkJyZWFrZG93blVzZXIiLCJleHAiOjE1NTUxMzk0MzIsIm5iZiI6MTU1NTA1Mjk3Mn0.KJ3JlS_87M3_F8gU6z0mBpZE50tKIPBZBXPMHq5lqp0",
+    "detectSourceLanguage": false,
+    "sourceLanguage": "en-US",
+    "language": "en-US",
+    "indexingPreset": "Default",
+    "linguisticModelId": "00000000-0000-0000-0000-000000000000",
+    "personModelId": "00000000-0000-0000-0000-000000000000",
+    "isAdult": false
+  }],
+  "videosRanges": [{
+    "videoId": "3af787565d",
+    "range": {
+      "start": "0:00:00",
+      "end": "0:00:37.163"
+    }
+  }]
+}
+
