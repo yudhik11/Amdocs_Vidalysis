@@ -16,7 +16,7 @@
 
 ### Architecture
 
-![pipeline.png](Architecture)
+![Architecture](pipeline.png)
 
 ### Modules
 
